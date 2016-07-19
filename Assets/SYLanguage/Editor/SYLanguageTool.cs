@@ -27,7 +27,7 @@ public class SYLanguageTool {
 	static string childPath = "";
 	static bool isPrefabChanged = false;
 
-
+	//设置搜索路径
 	static void Set () {
 	
 		UIPrefabPath = Application.dataPath + "/SYLanguage/Examples/Prefabs";
